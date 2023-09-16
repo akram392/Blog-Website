@@ -1,0 +1,12 @@
+
+/*# sourceMappingURL=custom.min.css.map */
+
+.auth-error {
+    margin: 0;
+    padding: 0;
+}
+.auth-error li {
+    list-style: none;
+    color: red;
+    padding: 10px;
+}
